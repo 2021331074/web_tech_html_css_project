@@ -28,11 +28,18 @@ CSS3
 📁 Folder Structure
 
 web_tech_html_css_project/
+
+
 ├── index.html
+
 ├── about.html
+
 ├── project.html
+
 ├── contact.html
+
 │── style.css
+
 └── README.md
 
 🚀 Getting Started
@@ -40,7 +47,8 @@ To view this project locally:
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/2021331074/web_tech_html_css_project.git
+
 Open the index.html file in your browser.
 
 📬 Contact
